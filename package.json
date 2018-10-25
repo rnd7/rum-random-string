@@ -1,0 +1,26 @@
+{
+  "name": "@rnd7/rum-random-string",
+  "version": "1.0.0",
+  "description": "Generates random strings.",
+  "module": "dist/rum-random-string-es.js",
+  "main": "dist/rum-random-string-cjs.js",
+  "browser": "dist/rum-random-string-browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "make-rum"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnd7/rum-random-string.git"
+  },
+  "author": "rnd7",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rnd7/rum-random-string/issues"
+  },
+  "homepage": "https://github.com/rnd7/rum-random-string#readme",
+  "devDependencies": {
+    "@rnd7/rum-maker": "^1.0.19",
+    "@rnd7/rum-publisher": "^1.0.55"
+  }
+}
