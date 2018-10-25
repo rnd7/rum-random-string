@@ -1,6 +1,6 @@
 {
   "name": "@rnd7/rum-random-string",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generates random strings.",
   "module": "dist/rum-random-string-es.js",
   "main": "dist/rum-random-string-cjs.js",
